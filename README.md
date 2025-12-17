@@ -12,3 +12,4 @@
 ## Dive into Deep Learning 
 - 深度学习教科书：[动手学深度学习](https://zh.d2l.ai/index.html)
 - 教学视频：[00 预告【动手学深度学习v2】](https://www.bilibili.com/video/BV1if4y147hS)
+- Github项目：[d2l-zh](https://github.com/d2l-ai/d2l-zh)
